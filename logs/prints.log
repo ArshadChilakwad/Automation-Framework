@@ -1,0 +1,22 @@
+23:01:57.980 [main] INFO  resources.base - Driver initialized in newCustomer
+23:03:21.708 [main] INFO  resources.base - Entered username
+23:03:22.309 [main] INFO  resources.base - Entered Password
+23:03:24.719 [main] INFO  resources.base - Click on submit
+23:03:24.720 [main] INFO  resources.base - logged in sucessfully
+23:03:35.388 [main] INFO  resources.base - Clicked on add new customer and navigated
+23:03:37.000 [main] INFO  resources.base - All the required details are filled
+23:03:37.993 [main] INFO  resources.base - Clicked on Submit button
+23:03:38.712 [main] INFO  resources.base - Browser is close
+23:03:41.138 [main] INFO  resources.base - Driver is initialized
+23:03:50.549 [main] INFO  resources.base - Navigated to Login Page
+23:03:50.798 [main] INFO  resources.base - Entered Username
+23:03:50.975 [main] INFO  resources.base - Entered Password
+23:03:52.737 [main] INFO  resources.base - click on submit
+23:03:54.141 [main] INFO  resources.base - Test success, Logged in successfully
+23:04:06.196 [main] INFO  resources.base - Entered Username
+23:04:06.321 [main] INFO  resources.base - Entered Password
+23:04:07.800 [main] INFO  resources.base - click on submit
+23:04:09.152 [main] INFO  resources.base - Test success, Logged in successfully
+23:04:16.589 [main] INFO  resources.base - Entered Username
+23:04:16.737 [main] INFO  resources.base - Entered Password
+23:04:17.368 [main] INFO  resources.base - click on submit
